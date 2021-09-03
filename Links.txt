@@ -1,0 +1,4 @@
+https://store.steampowered.com/steamos/
+https://store.steampowered.com/steamos/buildyourown
+http://repo.steampowered.com/download/SteamOSInstaller.zip
+http://repo.steampowered.com/steamos/
