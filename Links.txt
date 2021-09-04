@@ -3,3 +3,4 @@ https://store.steampowered.com/steamos/buildyourown
 http://repo.steampowered.com/download/SteamOSInstaller.zip
 http://repo.steampowered.com/steamos/
 https://download.nvidia.com/XFree86/Linux-x86_64/
+https://steamcommunity.com/groups/steamuniverse/discussions/1/1640915206447555580/
